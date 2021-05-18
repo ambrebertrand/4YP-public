@@ -1,5 +1,4 @@
-# 4YP 2020-2021
-# Advanced MRI of Cancer: A Novel Multi-Modal Image Analysis Approach for Clinical Trials
+# 4YP Advanced MRI of Cancer: A Novel Multi-Modal Image Analysis Approach for Clinical Trials
 
 Ambre Bertrand, University of Oxford, May 2021
 
